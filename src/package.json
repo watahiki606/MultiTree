@@ -1,0 +1,15 @@
+{
+  "name": "multitree",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/k260nyxq9v",
+  "main": "index.js",
+  "dependencies": {
+    "@atlaskit/css-reset": "3.0.6",
+    "@atlaskit/tree": "5.0.1",
+    "react": "16.8.4",
+    "react-beautiful-dnd": "10.1.0",
+    "react-dom": "16.8.4"
+  }
+}

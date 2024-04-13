@@ -1,0 +1,18 @@
+.list-outer {
+  width: 300px;
+  margin: 0 0px;
+}
+
+.list-inner {
+  border: 1px solid rgb(204, 204, 204);
+  background-color: #e4e4e4;
+  margin: 0 5px;
+}
+
+.list-body {
+  overflow: hidden;
+}
+
+.list-header {
+  padding: 10px;
+}

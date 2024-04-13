@@ -1,0 +1,23 @@
+::-webkit-scrollbar {
+  display: none;
+}
+
+/*  scrollbars popping in while dragging (when list items expand)
+    causes the scroll container to change size, breaking react-beautiful-dnd
+*/
+
+.lists-container {
+  overflow: auto;
+  display: flex;
+  height: 100%;
+  flex: 1 1 auto;
+}
+
+body {
+  display: flex;
+}
+
+#root {
+  display: flex;
+  flex: 1 1 auto;
+}

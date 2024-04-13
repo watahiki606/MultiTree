@@ -1,0 +1,9 @@
+.card-inner {
+  background-color: #fff;
+  border: 1px solid rgb(204, 204, 204);
+  padding: 10px;
+}
+
+.card-outer {
+  padding: 2px;
+}
